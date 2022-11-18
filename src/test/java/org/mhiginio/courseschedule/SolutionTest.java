@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
-    private Solution solution = new Solution();
+    private final Solution solution = new Solution();
 
     private static Stream<Arguments> testData() {
         return Stream.of(
