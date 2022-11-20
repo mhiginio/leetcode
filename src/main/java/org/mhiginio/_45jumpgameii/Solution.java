@@ -1,4 +1,4 @@
-package org.mhiginio.jumpgameii;
+package org.mhiginio._45jumpgameii;
 
 import java.util.Arrays;
 

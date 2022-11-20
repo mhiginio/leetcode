@@ -1,4 +1,4 @@
-package org.mhiginio.jumpgameii;
+package org.mhiginio._45jumpgameii;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
