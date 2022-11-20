@@ -1,4 +1,4 @@
-package org.mhiginio.dividetwointegers;
+package org.mhiginio._29dividetwointegers;
 
 public class Solution {
     public int divide(int dividend, int divisor) {

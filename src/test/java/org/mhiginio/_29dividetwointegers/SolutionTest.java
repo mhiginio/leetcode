@@ -1,4 +1,4 @@
-package org.mhiginio.dividetwointegers;
+package org.mhiginio._29dividetwointegers;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

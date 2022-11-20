@@ -1,4 +1,4 @@
-package org.mhiginio.courseschedule;
+package org.mhiginio._207courseschedule;
 
 import java.util.*;
 
